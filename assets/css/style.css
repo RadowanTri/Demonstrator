@@ -1,0 +1,25 @@
+.width-100 {
+    width: 100%;
+    text-align: center;
+}
+
+.f-170 {
+    float: left;
+    width: 170px;
+}
+
+.f-440 {
+    display: inline-block;
+    margin: 0 auto;
+    width: 440px;
+}
+
+.f-200 {
+    float: right;
+    width: 200px;
+}
+
+.map-nav {
+    display: flex;
+    justify-content: end;
+}
